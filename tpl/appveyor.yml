@@ -9,4 +9,4 @@ install:
 build: false  # Not a C# project, build stuff at the test step instead.
 test_script:
   - C:\Python36\python -m devpi use $DEVPI_INDEX
-  - C:\Python36\python -m devpi test $PROJECT==$VERSION
+  - C:\Python36\python -m devpi test $PACKAGE==$VERSION

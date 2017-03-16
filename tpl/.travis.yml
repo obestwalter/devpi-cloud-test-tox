@@ -5,4 +5,4 @@ python:
 install: "pip install -U devpi"
 script:
   - devpi use $DEVPI_INDEX
-  - devpi test $PROJECT==$VERSION
+  - devpi test $PACKAGE==$VERSION
