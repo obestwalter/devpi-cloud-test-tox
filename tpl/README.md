@@ -1,6 +1,6 @@
 # Results for [$PACKAGE==$VERSION]($DEVPI_INDEX/$PACKAGE/$VERSION)
 
-Cloud tests for [tox-dev/tox](https://github.com/tox-dev/tox).
+Cloud tests for [$PACKAGE](https://github.com/tox-dev/tox).
 
 Test triggered at: $TIMESTAMP
 

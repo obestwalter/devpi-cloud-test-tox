@@ -1,8 +1,8 @@
 # Results for [tox==2.6.1](https://devpi.net/obestwalter/dev/tox/2.6.1)
 
-Cloud tests for [tox-dev/tox](https://github.com/tox-dev/tox).
+Cloud tests for [tox](https://github.com/tox-dev/tox).
 
-Test triggered at: Thu Mar 16 21:06:59 2017
+Test triggered at: Fri Mar 17 18:46:15 2017
 
 [![Build Status](https://travis-ci.org/obestwalter/devpi-cloud-test-tox.svg?branch=master)](https://travis-ci.org/obestwalter/devpi-cloud-test-tox)
 
