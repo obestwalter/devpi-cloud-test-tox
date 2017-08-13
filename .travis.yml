@@ -5,4 +5,4 @@ python:
 install: "pip install -U devpi"
 script:
   - devpi use https://devpi.net/obestwalter/dev
-  - devpi test tox==2.7.0 -e py27,py35
+  - devpi test tox==2.8.0rc1 -e py27,py35
