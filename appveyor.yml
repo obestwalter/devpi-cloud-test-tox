@@ -8,5 +8,5 @@ install:
   - C:\Python36\python -m pip install devpi
 build: false  # Not a C# project, build stuff at the test step instead.
 test_script:
-  - C:\Python36\python -m devpi use https://devpi.net/obestwalter/dev
+  - C:\Python36\python -m devpi use https://m.devpi.net/obestwalter/dev
   - C:\Python36\python -m devpi test tox==3.0.0rc1 -e py27,py35

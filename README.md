@@ -1,4 +1,4 @@
-# Results for [tox==3.0.0rc1](https://devpi.net/obestwalter/dev/tox/3.0.0rc1)
+# Results for [tox==3.0.0rc1](https://m.devpi.net/obestwalter/dev/tox/3.0.0rc1)
 
 Cloud tests for [tox](https://github.com/tox-dev/tox).
 

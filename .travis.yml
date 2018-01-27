@@ -4,5 +4,5 @@ python:
   - 3.5
 install: "pip install -U devpi"
 script:
-  - devpi use https://devpi.net/obestwalter/dev
+  - devpi use https://m.devpi.net/obestwalter/dev
   - devpi test tox==3.0.0rc1 -e py27,py35
