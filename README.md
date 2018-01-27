@@ -2,7 +2,7 @@
 
 Cloud tests for [tox](https://github.com/tox-dev/tox).
 
-Test triggered at: Sat Jan 27 16:36:28 2018
+Test triggered at: Sat Jan 27 17:34:22 2018
 
 [![Build Status](https://travis-ci.org/tox-dev/devpi-cloud-test-tox.svg?branch=master)](https://travis-ci.org/tox-dev/devpi-cloud-test-tox)
 
